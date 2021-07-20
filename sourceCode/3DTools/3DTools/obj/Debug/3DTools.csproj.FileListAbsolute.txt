@@ -1,0 +1,12 @@
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\bin\Debug\3DTools.dll
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\bin\Debug\3DTools.pdb
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools.csprojAssemblyReference.cache
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\Trackport3D.baml
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\Trackport3D.g.cs
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools_MarkupCompile.cache
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools.g.resources
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\_3DTools.Properties.Resources.resources
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools.csproj.GenerateResource.cache
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools.csproj.CoreCompileInputs.cache
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools.dll
+C:\_HoneybLee\3DTools_Practical WPF Chart and Graphics\sourceCode\3DTools\3DTools\obj\Debug\3DTools.pdb
